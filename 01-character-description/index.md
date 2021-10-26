@@ -1,8 +1,8 @@
 # Character & Description
 
-![Drawing of a green dragon wraped around a black lowercase letter D in the Garamond typeface.](img/letter-d-johnova.PNG)
+![Drawing of a green dragon wrapped around a black lowercase letter D in the Garamond typeface.](img/letter-d-johnova.PNG)
 
-**Alt text:** Drawing of a green dragon wraped around a black lowercase letter D in the Garamond typeface.
+**Alt text:** Drawing of a green dragon wrapped around a black lowercase letter D in the Garamond typeface.
 
 - - -
 
