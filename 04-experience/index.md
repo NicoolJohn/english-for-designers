@@ -2,7 +2,6 @@
 nici.john@gmail.com / +420 607 604 602
 
 ---
-## Experience
 
 ## Education
 ### Graphic and media design, BcA
