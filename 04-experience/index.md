@@ -14,7 +14,7 @@ Absolved subjects:
 Freelance graphic designer. 2018-2021
 - one-time jobs - logos, logomanuals, illustrations, posters, roll-ups, merch
 
-CEO in company Na Káry, 2020-2021
+CEO in company Na Káry, 2020-current
 - designing and creating card games
 - packaging orders
 - managing social medias
