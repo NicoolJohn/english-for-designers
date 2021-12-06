@@ -21,6 +21,8 @@ When the idea was that the cards would only be for my personal needs, I wanted t
 
 At this stage, I was selling them only via digital copies. I didn’t have manufacturer and it was around exam period in school, so selling physical copies got postponed until summer of 2021, because finding a printing house and creating and printing the actual cards took approximately 5months.
 
+![cards mockup](img/3cards.jpg)
+
 ### Physical decks
 I started selling my cards physically in mid-July. At this time I already had 5 decks with 2 more coming in October. They all start with the letters “Na”, because the game is called “Na Káry” and I wanted all the decks to have a cohesive title.
 NAdržení (Horny) - originally called “sex deck” - about personal sex life
@@ -29,6 +31,8 @@ NAsmátí (foolish) - originally called “fun deck” - about being silly
 NAzdar (hello) - cards to get to know people, questions you wouldn’t normally ask but they tell you a lot about the person
 NÁhoda (coincidance) - add-on to basic deck, isn’t themed, just new style of playing cards
 NAštvaní (angry) - toxic cards, designed to test friendships
+
+![cards mockup](img/cards.jpg)
 
 ### Design
 All of the cards have black background, with most of them being only black and white. They have a minimalistic design. On the back of each card is the title “Na Káry” but it is designed to be hard to look at, because it gives you the feeling of being already drunk. Each deck of cards has a unique symbol to mark the type of deck it is from. 
