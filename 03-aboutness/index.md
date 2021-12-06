@@ -6,6 +6,8 @@ Hello! I am Nicole John, graphic designer, artist, CEO in company specializing i
 
 See my ![current project](case-study.md) here!
 
+![photo of my and my cat](03-aboutness/img/me-and-cat)
+
 ## My story
 
 Describing myself in a few words might be a bit of a pickle. Sometimes, I amaze myself. And sometimes I throw my keys in the trash. Generally, I'd like to think myself to be friendly, reliable, punctual and a team player, but I tend to gravitate more towards being the leader.
