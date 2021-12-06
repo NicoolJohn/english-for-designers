@@ -21,6 +21,7 @@ When the idea was that the cards would only be for my personal needs, I wanted t
 
 At this stage, I was selling them only via digital copies. I didn’t have manufacturer and it was around exam period in school, so selling physical copies got postponed until summer of 2021, because finding a printing house and creating and printing the actual cards took approximately 5months.
 
+![cards mockup](img/decks.jpg)
 ![cards mockup](img/3cards.jpg)
 
 ### Physical decks
