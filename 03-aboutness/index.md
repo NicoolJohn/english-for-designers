@@ -6,7 +6,7 @@ Hello! I am Nicole John, graphic designer, artist, CEO in company specializing i
 
 See my ![current project](case-study.md) here!
 
-<img src="img/me-and-cat.jpg" width="500">
+<img src="img/me-and-cat.jpg" width="350">
 
 ## My story
 
