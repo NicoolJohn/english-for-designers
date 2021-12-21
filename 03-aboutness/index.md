@@ -2,8 +2,6 @@
 
 ## About me
 
-Hello! I am Nicole John, graphic designer, artist, CEO in company specializing in drinking games and a cat mom.
-
 See my ![current project](case-study.md) here!
 
 ![photo of me and my cat](img/me-and-cat2.jpg)
