@@ -1,5 +1,3 @@
-# Nicole Johnová
-
 ![banner welcoming you to my homepage](img/banner.jpg)
 
 ---
