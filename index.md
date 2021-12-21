@@ -26,3 +26,7 @@ See my [current project](03-aboutness/case-study.md) here.
 [Storytelling]() - WIP
 
 ## Takeaways
+- Complex writing doesn´t necessarily mean better
+- Your text can be read by anyone, adjust your language
+- Started using GitHub
+- Good writing doesn´t just happen, it takes time
