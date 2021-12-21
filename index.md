@@ -6,7 +6,7 @@
 ## About me
 Hello! I am Nicole John, graphic designer, artist, CEO in company specializing in drinking games and a cat mom.
 
-
+---
 
 Check out my [about page](03-aboutness/) to get to know me more.
 
