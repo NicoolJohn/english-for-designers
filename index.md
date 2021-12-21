@@ -9,6 +9,7 @@ Here is my online version of [CV](04-experience/).
 See my [current project](03-aboutness/case-study.md) here.
 
 ---
+## Coursework over the year
 
 [Character Description](01-character-description/)
 
@@ -21,3 +22,5 @@ See my [current project](03-aboutness/case-study.md) here.
 [Voice and tone](05-voice-tone/)
 
 [Current Project](03-aboutness/case-study.md)
+
+## Takeaways
