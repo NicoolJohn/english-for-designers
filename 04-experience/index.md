@@ -12,12 +12,12 @@ Culture of spoken language, Culture of written language, Digital Design, Digital
 
 ## Work experience
 Freelance graphic designer. 2018-2021
-- one-time jobs - logos, logomanuals, illustrations, posters, roll-ups, merch
+- One-time jobs - logos, logomanuals, illustrations, posters, roll-ups, merch
 
 CEO in company Na Káry, 2020-current
-- designing and creating card games
-- packaging orders
-- managing social medias
+- Designing and creating card games
+- Packaging orders
+- Managing social medias
 
 ## Skills
 Design
@@ -44,7 +44,7 @@ Other
 - Team player
 
 Languages
-- active: English, Czech
-- passive: German
+- Active: English, Czech
+- Passive: German
 
 
