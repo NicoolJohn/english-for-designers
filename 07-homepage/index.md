@@ -1,1 +1,1 @@
-[My story](03-aboutness/)
+[Aboutness](03-aboutness/)
