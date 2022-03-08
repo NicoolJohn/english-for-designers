@@ -1,6 +1,6 @@
 # Storytelling
 
-<iframe width="1080" height="auto" src="https://www.youtube.com/embed/_rbQT2KoWms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1044" height="567" src="https://www.youtube.com/embed/_rbQT2KoWms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 This is me. (Picture of me doing sh.t) You’re probably wondering how I ended up in this situation. To really know what happened, we gotta take things from the start. 
