@@ -27,19 +27,11 @@ NaPong is add-on card game to existing drinking game Beerpong. My thesis focuses
 
 <!-- Key points; aim for **30–60 words** each. -->
 
-1. Background/importance of topic: My main reason for the topic of my thesis was my already existing expirience with board games, as it is something I am interested in. Hopefully the project will extend the czech market in "student" games, while also monetizing the idea. 
-2. Purpose/hypothesis (thesis or statement of problem): I want to reach out of my comfort zone and step up my game in creating games. My project should not only fill the market, but also be sort of a guide on how to create such game from creating the concept of the game to advertisement.
-3. Research — design/methodology/approach including procedures/data/observations: First of all I will be doing the research of current market, however there are not a lot of similar games in Czech and neither in foreign countries. Second I will be doing survey from several social groups, but my main source of info will be already existing group of followers I gained thanks to the game NaKáry. They are my main targeted audience as they expressed interest in similar games.
+1. Background/importance of topic: My main reason for the topic of my thesis was my already existing expirience with board games, as it is something I am interested in. Czech and Slovakian market is missing these kinds of games, as already proven by high demand for my already existing card game. Hopefully the project will extend those markets in drinking games, while also monetizing the idea. 
+2. Purpose/hypothesis (thesis or statement of problem): I want to reach out of my comfort zone and step up my game in creating games. My project should not only fill the market, but also be sort of a guide on how to create such game from creating the concept of the game to advertisement. It should also give an insight on what work is needed to bring it to life. 
+3. Research — design/methodology/approach including procedures/data/observations: First of all I will be doing the research of current market, however there are not a lot of similar games in Czech and neither in foreign countries, so the main source of information will be survey. I will be getting ingo from several social groups, but my main source of data will be already existing group of followers I gained thanks to the game NaKáry. They are also my main targeted audience, as they expressed interest in similar games before.
 4. Findings (highlight outcome of research):
-5. Conclusions (significance/success of study to theory/practical/society): As I said, I hope to finish the whole concept of the game as well as the game itself and be able to sell it as a sister product to my already existing game.
-
-## References
-
-<!-- Add reference list. See Reference List Style -->
-
-- …
-- …
-- …
+5. Conclusions (significance/success of study to theory/practical/society): As I said, I hope to finish the whole concept of the game as well as the game itself and be able to sell it as a sister product to my already existing game, and bring hours of fun to czech and slovak people.
 
 ## Inspiration
 
