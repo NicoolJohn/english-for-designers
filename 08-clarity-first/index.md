@@ -16,7 +16,7 @@ NaPong is add-on card game to existing drinking game Beerpong. My thesis focuses
 
 <details>
   <summary><b>Mind Map</b></summary>
-  <img alt="Gray box placeholder image, for position only." src="./img/NaPong-mindmap.jpg">
+  <img alt="Gray box placeholder image, for position only." src="NaPong-mindmap.jpg">
 </details>
 
 ## Keywords
