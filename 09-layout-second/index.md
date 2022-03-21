@@ -14,4 +14,8 @@ Drinking game, Board game, Students, College, Student life, Advertisement, Graph
 
 <img width="400" src="img/pic0.jpg"> <img width="400" src="img/pic1.jpg"> <img width="400" src="img/pic2.jpg">
 <img width="400" src="img/pic3.jpg"> <img width="400" src="img/pic4.jpg"> <img width="400" src="img/pic5.jpg">
+<img width="400" src="img/pic6.jpg"> <img width="400" src="img/pic7.jpg"> <img width="400" src="img/pic8.jpg">
+<img src="img/pic9.jpg">
+<img src="img/pic10.jpg">
+<img src="img/pic11.jpg">
  
