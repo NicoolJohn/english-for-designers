@@ -12,4 +12,4 @@ Drinking game, Board game, Students, College, Student life, Advertisement, Graph
 
 <!-- Work-in-progress thesis presetation. -->
 
-<src="img/pic0.jpg>
+<img src="img/pic0.jpg">
