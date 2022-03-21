@@ -33,7 +33,3 @@ NaPong is add-on card game to existing drinking game Beerpong. My thesis focuses
 4. Findings (highlight outcome of research):
 5. Conclusions (significance/success of study to theory/practical/society): As I said, I hope to finish the whole concept of the game as well as the game itself and be able to sell it as a sister product to my already existing game, and bring hours of fun to czech and slovak people.
 
-## Inspiration
-
-<!-- Optional section, see https://evajunkova.github.io/english-for-designers/08-clarity-first/#inspiration -->
-
