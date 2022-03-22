@@ -12,7 +12,7 @@
 ---
 ## Summary
 
-NaPong is add-on card game to existing drinking game Beer pong. My thesis focuses on game concept, design and advertisement – mainly on social media. My goal is to create fully-functioning and intuitive game to enrich gameplay of one of the most played college games in the US, and to bring it to Czechia with the intent of selling the product myself. 
+NaPong is add-on card game to existing drinking game Beer pong. My thesis focuses on game concept, design and advertisement – mainly on social media. My goal is to create fully-functioning and intuitive expansion to enrich gameplay of one of the most played college games in the US, and to bring it to Czechia with the intent of selling the product myself. 
 
 <details>
   <summary><b>Mind Map</b></summary>
