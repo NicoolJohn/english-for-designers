@@ -23,7 +23,7 @@ This thesis focuses on creating a new board game form the start. My intentions a
 
 ## Keywords
 
-<!-- comma separated terms, all in lowercase letters (except for proper nouns), and arranged alphabetically  -->
+Drinking game, Board game, Students, College, Student life, Advertisement, Graphic design, Visual identity, Socials, Marketing
 
 ## Main Text
 
