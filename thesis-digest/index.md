@@ -19,13 +19,15 @@ Word count: <!-- Digests should be approximately 500 words. Everything below, in
 
 ## Abstract
 
-This thesis focuses on creating a new board game form the start. My intentions are to try to clarify few key words, such as Corporate Identity and Corporate Design, that are needed to understand the topic. Also I am going to collect data from the survey I did among more than 170 people, which focuses on public awarness of drinking games in Czech Republic. I will analyze this survey and use it to determine key point of my thesis, such as targeted group.  Then I would like to apply this acquired info and create a concept and visual design of a new expansion card game to already existing worldwide-known game Beer Pong. Lastly, one of the main parts will also be applying said design and using it to communicate on social media.
+This thesis focuses on creating a new board game form the start. My intentions are to try to clarify few key words, such as Corporate Identity and Corporate Design that are needed to understand the topic. Also I am going to collect data from the survey I did among more than 170 people, which focuses on public awarness of drinking games in Czech Republic. I will analyze this survey and use it to determine key point of my thesis, such as targeted group.  Then I would like to apply this acquired info and create a concept and visual design of a new expansion card game to already existing worldwide-known game Beer Pong. Lastly, one of the main parts will also be applying said design and using it to communicate on social media.
 
 ## Keywords
 
 Drinking game, Board game, Students, College, Student life, Advertisement, Graphic design, Visual identity, Socials, Marketing
 
 ## Main Text
+
+Based on my previous experience with games and starting my own business, I wanted to create something that will expand my sortiment. The idea came from multiple occasions of playing the game “Beer Pong”, and being bored as a spectator after a few rounds. My goal is to create concept of an add-on game that will entertain multiple people at once and will enrich the gameplay itself. My thesis will focus on creating such game, as well as it’s initial advertisement on social media.
 
 <!--
 Consider these sections, and chunk them into separate paragraphs for readability. Note that a single sentence can represent a paragraph. See, What makes writing more readable? https://pudding.cool/2022/02/plain/ for guidance.
