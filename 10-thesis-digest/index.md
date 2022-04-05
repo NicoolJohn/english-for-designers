@@ -43,25 +43,3 @@ Also, consider referring and linking to figures in your main text if useful.
 > The expectation is that under harsh circumstances, population size will be reduced, and 45 individuals will die irrespective of their trait values. This will result in higher levels of genetic 46 drift in the population, increasing the chance of losing genetic variation at any locus in the 47 genome ([Figure 1](#figure-1)).
  -->
 
-## References
-
-<!-- Use an unordered list, arranged alphabetically by author’s surname.  -->
-
-## Images
-
-<!-- Original figure(s) and caption(s) designed by digest author. And remeber to optimize images. -->
-
-### Figure 1
-
-<!-- ![Alternative text for image.](img/*.png) -->
-<!-- Caption text above or below image(s) -->
-
-### Figure 2
-
-<!-- ![Alternative text for image.](img/*.png) -->
-<!-- Caption text above or below image(s) -->
-
-### Figure 3
-
-<!-- ![Alternative text for image.](img/*.png) -->
-<!-- Caption text above or below image(s) -->
