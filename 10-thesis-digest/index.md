@@ -27,7 +27,10 @@ Drinking game, Board game, Students, College, Student life, Advertisement, Graph
 
 ## Main Text
 
-Based on my previous experience with games and starting my own business, I wanted to create something that will expand my sortiment. The idea came from multiple occasions of playing the game “Beer Pong”, and being bored as a spectator after a few rounds. My goal is to create concept of an add-on game that will entertain multiple people at once and will enrich the gameplay itself. My thesis will focus on creating such game, as well as it’s initial advertisement on social media.
+Based on my previous experience with drinkking games and starting my own business, I wanted to create something that will expand my sortiment. The idea came from multiple occasions of playing the game “Beer Pong”, and being bored as a spectator after a few rounds. My goal is to create concept of an add-on game that will entertain multiple people at once and will enrich the gameplay itself. This expansion should work in a way that under each cup will be a card, that will somehow make the gameplay different, such as – "throw with your non-dominant hand" or "fill back 1 cup". It is aiming to enrich the gameplay and make it a game not only about skill, but also about luck and mainly, fun. 
+
+I want to reach out of my comfort zone and step up my game in creating games. My project should not only fill the market, but also be sort of a guide on how to create such game from creating the concept of the game to advertisement. It should also give an insight on what work is needed to bring it to life. 
+
 
 <!--
 Consider these sections, and chunk them into separate paragraphs for readability. Note that a single sentence can represent a paragraph. See, What makes writing more readable? https://pudding.cool/2022/02/plain/ for guidance.
