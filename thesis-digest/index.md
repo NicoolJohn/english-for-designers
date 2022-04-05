@@ -1,18 +1,11 @@
-Title: Digest: <!-- Please limit the title to around **100–125 characters** or less (think — alt text). -->-->
+Title: Digest: Concept and design of a new game NaPong
 
-Running Title: …
+Author Name(s): Nicole Johnová
 
-<!--
-A running title is an abbreviated form of the main title, usually cited at the top of each published page or left-hand text pages.
+E-mail(s): nici.john@gmail.com
 
-If your title is already short, use your actual title. If your title is not very short, use an abbreviated version of it as the running title.
--->
+Acknowledgement(s): I would like to mainly thank my advisor doc. Joachim Rindler for the guidance and help he offered with my thesis, as well as providing professional experience, support and time given to me during consultations and my studies. I would also like to thank my family and friends for supporting me through this whole journey from the start.
 
-Author Name(s): …
-
-E-mail(s): …
-
-Acknowledgement(s): …
 
 Data Accessibility/Availability Statement: There is no data archived.
 
@@ -22,7 +15,7 @@ Word count: <!-- Digests should be approximately 500 words. Everything below, in
 
 - - -
 
-# Digest: <!-- Full title from above -->
+# Digest: Concept and design of a new game NaPong
 
 ## Abstract
 
