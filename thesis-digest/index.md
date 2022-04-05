@@ -19,7 +19,7 @@ Word count: <!-- Digests should be approximately 500 words. Everything below, in
 
 ## Abstract
 
-<!-- A descriptive (100 words or less) or an informative abstract (300 words or less; aim for half, around 150 words or less, but write first, edit second.-->
+This thesis focuses on creating a new board game form the start. My intentions are to try to clarify few key words, such as Corporate Identity and Corporate Design, that are needed to understand the topic. Also I am going to collect data from the survey I did among more than 170 people, which focuses on public awarness of drinking games in Czech Republic. I will analyze this survey and use it to determine key point of my thesis, such as targeted group.  Then I would like to apply this acquired info and create a concept and visual design of a new expansion card game to already existing worldwide-known game Beer Pong. Lastly, one of the main parts will also be applying said design and using it to communicate on social media.
 
 ## Keywords
 
