@@ -55,3 +55,12 @@ Also, consider referring and linking to figures in your main text if useful.
 > The expectation is that under harsh circumstances, population size will be reduced, and 45 individuals will die irrespective of their trait values. This will result in higher levels of genetic 46 drift in the population, increasing the chance of losing genetic variation at any locus in the 47 genome ([Figure 1](#figure-1)).
  -->
 
+<img src="img/Moodboard.png">
+<img width="400" src="img/Logo_žluté_čtverec.png"> <img width="400" src="img/Logo_černé_čtverec.png">
+<img width="400" src="img/Podtácky_čern=-Top2.png"> <img width="400" src="Podtácky_žluté-Top2.png">
+<img width="400" src="Krabička_malá.jpg"> <img width="400" src="Krabička_velká.jpg">
+<img src="img/NP_Kelímek_3d_both-Main.png">
+<img width="400" src="Pravidla_outside2.jpg"> <img width="400" src="Pravidla_inside2.jpg">
+<img width="400" src="Ig2.jpg"> <img width="400" src="phone+3ig posts2.jpg">
+<img src="Undergound_billboard.jpg">
+<img src="Underground_3posters.jpg">
