@@ -62,5 +62,5 @@ Also, consider referring and linking to figures in your main text if useful.
 <img src="img/NP_Kelímek_3d_both2-Main.png">
 <img width="400" src="img/Pravidla_outside2.jpg"> <img width="400" src="img/Pravidla_inside2.jpg">
 <img width="400" src="img/Ig2.jpg"> <img width="400" src="img/phone+3ig posts2.jpg">
-<img src="img/Undergound_billboard.jpg">
+<img src="img/Underground_billboard.jpg">
 <img src="img/Underground_3posters.jpg">
