@@ -59,7 +59,7 @@ Also, consider referring and linking to figures in your main text if useful.
 <img width="400" src="img/Logo_žluté_čtverec.png"> <img width="400" src="img/Logo_černé_čtverec.png">
 <img width="400" src="img/Podtácky_čern=-Top2.png"> <img width="400" src="Podtácky_žluté-Top2.png">
 <img width="400" src="Krabička_malá.jpg"> <img width="400" src="Krabička_velká.jpg">
-<img src="img/NP_Kelímek_3d_both-Main.png">
+<img src="img/NP_Kelímek_3d_both2-Main.png">
 <img width="400" src="Pravidla_outside2.jpg"> <img width="400" src="Pravidla_inside2.jpg">
 <img width="400" src="Ig2.jpg"> <img width="400" src="phone+3ig posts2.jpg">
 <img src="Undergound_billboard.jpg">
