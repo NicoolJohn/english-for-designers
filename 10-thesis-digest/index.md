@@ -19,7 +19,14 @@ Word count: <!-- Digests should be approximately 500 words. Everything below, in
 
 ## Abstract
 
-This thesis focuses on creating a new board game form the start. My intentions are to try to clarify few key words, such as Corporate Identity and Corporate Design that are needed to understand the topic. Also I am going to collect data from the survey I did among more than 170 people, which focuses on public awarness of drinking games in Czech Republic. I will analyze this survey and use it to determine key point of my thesis, such as targeted group.  Then I would like to apply this acquired info and create a concept and visual design of a new expansion card game to already existing worldwide-known game Beer Pong. Lastly, one of the main parts will also be applying said design and using it to communicate on social media.
+This thesis focuses on creating a new board game from the start called NaPong. My intentions are to try to clarify few key words, such as Corporate Identity and Corporate Design that are needed to understand the topic. Also I am going to collect data from the survey I did among more than 170 people, which focuses on public awarness of drinking games in Czech Republic. I will analyze this survey and use it to determine key point of my thesis, such as targeted group.  Then I would like to apply this acquired info and create a concept and visual design of a new expansion card game to already existing worldwide-known game Beer Pong. Lastly, one of the main parts will also be applying said design and using it to communicate on social media.
+
+## Abstract no. 2
+
+This thesis focuses on the process of creating a new drinking board game from the start with the intention of making it into real product and selling it on the Czech market. The main goal is not only to create the concept and the visuals, but also to clarify few key words that are needed to understand the topic.
+The main aim of the theoretical part is to clear up few terms from graphic design field and marketing, such as Corporate Identity and Corporate Design. This part also includes the analysis of the already existing drinking games in Czech Republic, as well as analysis of collected data from survey. This survey was done among more than 170 people and it focuses on public awareness of drinking games, and it´s main outcome was to determine the targeted group. Based on the data collected it the theoretical part, the design should be made primarily for young people, mainly students, as they are the ones that play drinking games the most. 
+The practical part uses all the data collected from the theoretical part and applies it. It firstly focuses on creating a new concept of drinking game, and then designing the actual visuals. The main idea of the game is to create an expansion to a worldwide-known game called Beer Pong in the form of cards. The design is then created to complement and enhance the concept. This design is applied to social media and posters to showcase the possible use and communication in the future.
+
 
 ## Keywords
 
