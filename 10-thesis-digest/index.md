@@ -56,7 +56,7 @@ Also, consider referring and linking to figures in your main text if useful.
  -->
 
 <img src="img/Moodboard.png">
-<img src="img/Logo_žluté_čtverec.png"> 
+<img width="400" src="img/Logo_žluté_čtverec.png"> 
 <img src="img/Logo_černé_čtverec.png">
 <img src="img/Podtácky_čern=-Top2.png"> 
 <img src="img/Podtácky_žluté-Top2.png">
