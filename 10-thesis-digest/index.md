@@ -32,7 +32,7 @@ The practical part uses all the data collected from the theoretical part and app
 
 ## Keywords
 
-Drinking game, Board game, Students, College, Student life, Advertisement, Graphic design, Visual identity, Socials, Marketing
+drinking game, board game, students, college, student life, advertisement, graphic design, visual identity, socials, marketing
 
 ## Main Text
 
