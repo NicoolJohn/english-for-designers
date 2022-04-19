@@ -56,11 +56,16 @@ Also, consider referring and linking to figures in your main text if useful.
  -->
 
 <img src="img/Moodboard.png">
-<img width="400" src="img/Logo_žluté_čtverec.png"> <img width="400" src="img/Logo_černé_čtverec.png">
-<img width="400" src="img/Podtácky_čern=-Top2.png"> <img width="400" src="img/Podtácky_žluté-Top2.png">
-<img width="400" src="img/Krabička_malá.jpg"> <img width="400" src="img/Krabička_velká.jpg">
+<img src="img/Logo_žluté_čtverec.png"> 
+<img src="img/Logo_černé_čtverec.png">
+<img src="img/Podtácky_čern=-Top2.png"> 
+<img src="img/Podtácky_žluté-Top2.png">
+<img src="img/Krabička_malá.jpg"> 
+<img src="img/Krabička_velká.jpg">
 <img src="img/NP_Kelímek_3d_both2-Main.png">
-<img width="400" src="img/Pravidla_outside2.jpg"> <img width="400" src="img/Pravidla_inside2.jpg">
-<img width="400" src="img/Ig2.jpg"> <img width="400" src="img/phone+3ig posts2.jpg">
+<img src="img/Pravidla_outside2.jpg"> 
+<img src="img/Pravidla_inside2.jpg">
+<img src="img/Ig2.jpg"> 
+<img src="img/phone+3ig posts2.jpg">
 <img src="img/Underground_billboard.jpg">
 <img src="img/Underground_3posters.jpg">
