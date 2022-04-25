@@ -34,7 +34,7 @@ The main idea of the game is expansion in the form of cards, which are located u
 Each game is completely unique, as there are numerous combinations of yellow and black cards. It is important to mention that the game can be played with both alcoholic and non-alcoholic beverages, so it is entirely up to the players which option to choose. At the same time, emphasis is placed on the fact that no player is obliged to drink alcohol and they decide for themselves whether they feel comfortably with the tasks or if they are in a dangerous situation. In this case, the game can be stopped at any time.
 
 
-<img src="img/Podtácky_čern=-Top2.png"> 
+<img src="10-thesis-digest/img/Podtácky_čern=-Top2.png"> 
 <img src="img/Podtácky_žluté-Top2.png">
 
 There are two types of packaging:
