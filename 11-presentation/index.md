@@ -28,6 +28,15 @@ Based on the questionnaire conducted for this work, 80% of respondents in the Cz
 <img src="img/Moodboard.png">
 <img width="400" src="img/Logo_žluté_čtverec.png">  <img width="400" src="img/Logo_černé_čtverec.png">
 
+Visual elements - Thanks to the multilayered logo, many visual elements can be used. I decided to use the letter "O" as a ball, at the same time it is used in a smaller size and in larger quantities as a representation of the line of movement of the ball. It is also applied in patterns in predetermined colors, which are used in the background in low transparency.
+<img src="img/Artboard 1.png">
+Furthermore, the line from the logo is used as a dividing or additional element.
+<img src="img/Artboard 2.png">
+Another element is a triangle with rounded edges as an icon with many meanings - it is used, for example, as a bullet, as a representation of the "play" icon, etc.
+<img src="img/Artboard 3.png">
+The last visual element is the connection of a line and a rounded triangle as a text message display. This element aims to connect design with young people and give NaPong a modern and youthful touch.
+<img src="img/Artboard 4.png">
+
 The main idea of the game is expansion in the form of cards, which are located under each of the individual cups. They are round and contain various tasks, rules and challenges that players must perform. There are two types, yellow cards and black cards.
 - Yellow card - This card determines the rule for one game, eg "Throw with a non-dominant hand" - ie. that the whole game players throw only with a non-dominant hand.
 - Black card - There is going to be one black card under each cup. When the opponent hits the cup, the player takes the card, does what is written on it, drinks, and only then does the game continue. The players in each team take turns drinking (thus also performing tasks).
