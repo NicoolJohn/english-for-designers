@@ -18,7 +18,9 @@ Check out my [about page](03-aboutness/) to get to know me more.<br>Here is my o
 
 [Voice and tone](05-voice-tone/)
 
-[Storytelling](06-storytelling)
+[Storytelling](06-storytelling/)
+
+[Thesis](11-presentation/)
 
 ## Takeaways
 - Complex writing doesn´t necessarily mean better
